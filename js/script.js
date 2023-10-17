@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function () {
         quote2Input.value = '';
 
         // Charger une nouvelle citation aléatoire
-        loadRandomQuote();
+        //loadRandomQuote();
     });
 
     function loadRandomQuote() {
