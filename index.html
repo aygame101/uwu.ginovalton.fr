@@ -4,16 +4,10 @@
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" href="css/button.css">
-
-        <link rel="icon" type="image/x-icon" href="img/campus_eductive.png">
 
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
-
-        <script src="js/index_html.js"></script>
 
         <title>Uwu.ginovalton.fr</title>
     </head>
@@ -21,9 +15,21 @@
     <body>
 
         <h1>Ligne Aléatoire</h1>
-        <p id="line1"></p>
-        <p id="line2"></p>
-        <script src="script.js"></script>
+    <p id="line1"></p>
+    <p id="line2"></p>
+
+    <!-- Formulaire pour ajouter une nouvelle citation -->
+    <form id="quoteForm">
+        <label for="quote1">Première partie de la citation:</label>
+        <input type="text" id="quote1" name="quote1" required><br>
+        
+        <label for="quote2">Deuxième partie de la citation:</label>
+        <input type="text" id="quote2" name="quote2" required><br>
+
+        <button type="submit">Ajouter une citation</button>
+    </form>
+
+    <script src="script.js"></script>
 
     </body>
 
