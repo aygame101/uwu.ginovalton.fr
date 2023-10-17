@@ -28,7 +28,7 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     function loadRandomQuote() {
-        fetch('loadline.php')
+        fetch('save_load/loadline.php')
             .then(response => response.json())
             .then(data => {
                 line1Element.textContent = data.line1;
@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function saveNewQuote(quote1, quote2) {
         const newQuote = `${quote1};${quote2};0\n`;
-        fetch('savequote.php', {
+        fetch('save_load/savequote.php', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/x-www-form-urlencoded',

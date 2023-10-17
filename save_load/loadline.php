@@ -1,5 +1,5 @@
 <?php
-$lines = file('citations.txt', FILE_IGNORE_NEW_LINES);
+$lines = file('../txt/citations.txt', FILE_IGNORE_NEW_LINES);
 if ($lines === false) {
     $response = array('line1' => 'Erreur de lecture du fichier', 'line2' => '');
 } else {
@@ -16,7 +16,7 @@ if ($lines === false) {
             $parts[count($parts) - 1] = '0';
             $line = implode(';', $parts);
         }
-        file_put_contents('citations.txt', implode("\n", $lines));
+        file_put_contents('../txt/citations.txt', implode("\n", $lines));
         $unshownLines = $lines;
     }
 
@@ -29,7 +29,7 @@ if ($lines === false) {
     $parts = explode(';', trim($line));
     $parts[count($parts) - 1] = '1';
     $lines[$randomIndex] = implode(';', $parts);
-    file_put_contents('citations.txt', implode("\n", $lines));
+    file_put_contents('../txt/citations.txt', implode("\n", $lines));
 
     $response = array('line1' => $line1, 'line2' => $line2, 'status' => $status);
 }
@@ -47,6 +47,6 @@ if (count(array_filter($lines, function($line) {
         $parts[count($parts) - 1] = '0';
         $line = implode(';', $parts);
     }
-    file_put_contents('citations.txt', implode("\n", $lines));
+    file_put_contents('../txt/citations.txt', implode("\n", $lines));
 }
 ?>
