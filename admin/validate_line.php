@@ -11,7 +11,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET' && isset($_GET['index'])) {
         if ($index >= 0 && $index < count($tempLines)) {
             // Valider la ligne en la copiant de temp.txt vers tt.txt
             $lineToValidate = $tempLines[$index];
-            file_put_contents($ttFile, $lineToValidate . PHP_EOL, FILE_APPEND | LOCK_EX);
+            
+            // Ajouter une ligne vide après chaque ligne existante dans tt.txt
+            if (!empty($ttLines)) {
+                file_put_contents($ttFile, implode(PHP_EOL, $ttLines) . PHP_EOL . $lineToValidate . PHP_EOL, LOCK_EX);
+            } else {
+                file_put_contents($ttFile, $lineToValidate . PHP_EOL, LOCK_EX);
+            }
 
             // Supprimer la ligne de temp.txt
             unset($tempLines[$index]);
