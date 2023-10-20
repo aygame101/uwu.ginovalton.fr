@@ -22,14 +22,15 @@
     </div>
 
     <!-- Formulaire pour ajouter une nouvelle citation -->
-    <form id="quoteForm">
-        <label for="quote1">Première partie de la citation:</label>
-        <input type="text" id="quote1" name="quote1" required><br>
-        
-        <label for="quote2">Deuxième partie de la citation:</label>
-        <input type="text" id="quote2" name="quote2" required><br>
 
-        <button type="submit">Ajouter une citation</button>
+    <p class="footer_cit" id="cit_prop">Proposer une citation bienveillante :</p>
+    <form class="footer_cit" id="quoteForm">
+
+        <input type="text" id="quote1" name="quote1" placeholder="Citation" required><br>
+        
+        <input type="text" id="quote2" name="quote2" placeholder="Auteur" required><br>
+
+        <button id="send_cit" type="submit">Valider</button>
     </form>
 
     <script src="js/script.js"></script>
