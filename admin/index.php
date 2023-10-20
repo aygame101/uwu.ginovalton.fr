@@ -98,7 +98,6 @@ $_SESSION['last_activity'] = time();
         <input type="submit" value="Déconnexion" id="deco_btn">
     </form>
 
-    <p class="footer_back"><a href="../index.html">Back</a></p>
 </body>
 </html>
 
