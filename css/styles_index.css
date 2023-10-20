@@ -32,7 +32,7 @@ h1 {
     color: #dd2d4a;
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    margin-top: 250px;
+    margin-top: 230px;
     font-size: 25px;
     font-weight: 500;
 }
@@ -45,7 +45,7 @@ h1 {
     margin-right: 10px;
     font-size: 20px;
     font-weight: 400;
-    margin-bottom: 300px;
+    margin-bottom: 100px;
 }
 
 #citations {
@@ -54,7 +54,7 @@ h1 {
 }
 
 #cit_prop {
-    margin-top: 400px;
+    margin-top: 200px;
     margin-left: 12%;
     font-family: 'Roboto', sans-serif;
     font-size: 17px;
@@ -120,4 +120,14 @@ select, input {
     border: 2px solid #dd2d4a;
     font-weight: 600;
     transition: 0.5s;
+}
+
+.footer_admin {
+    text-align: center;
+}
+
+a {
+    color: #dd2d4a;
+    padding: 20px;
+    border-radius: 10px;
 }
