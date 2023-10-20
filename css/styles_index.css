@@ -7,3 +7,34 @@ body {
     background-color: #fff;
 }
 
+h1 {
+    background-color: #dd2d4a;
+    color: #fff;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    padding: 15px;
+}
+
+#line1 {
+    color: #dd2d4a;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    margin-top: 300px;
+    font-size: 25px;
+    font-weight: 500;
+}
+
+#line2 {
+    color: #dd2d4a;
+    font-family: 'Roboto', sans-serif;
+    text-align: right;
+    margin-right: 10px;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 300px;
+}
+
+#citations {
+    margin-left: 5%;
+    margin-right: 5%;
+}

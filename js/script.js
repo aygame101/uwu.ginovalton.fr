@@ -32,12 +32,13 @@ document.addEventListener('DOMContentLoaded', function () {
             .then(response => response.json())
             .then(data => {
                 line1Element.textContent = data.line1;
-                line2Element.textContent = data.line2;
+                line2Element.textContent = "- " + data.line2; // Ajouter le préfixe "- "
             })
             .catch(error => {
                 console.error('Erreur lors du chargement de la ligne :', error);
             });
     }
+    
 
     function saveNewQuote(quote1, quote2) {
         const newQuote = `${quote1};${quote2};0\n`;
