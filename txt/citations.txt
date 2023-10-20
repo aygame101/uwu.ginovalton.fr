@@ -1,2 +1,100 @@
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy;Anonyme;0
-Salut ! J'espère que tu passes une merveilleuse journée !;Anonyme;1
+Salut ! J'espère que tu passes une merveilleuse journée !;Anonyme;0
+Ne l'oublie jamais : tu es incroyablement spécial.;Anonyme;0
+Ton sourire illumine la journée de tant de gens, continue à briller !;Anonyme;0
+La vie peut être difficile, mais tu es plus fort(e) que tu ne le penses.;Anonyme;0
+Tu es une source d'inspiration pour tant de gens, y compris moi.;Anonyme;0
+N'oublie pas de prendre soin de toi aujourd'hui.;Anonyme;0
+Ton optimisme est contagieux, merci d'être toi.;Anonyme;0
+Le monde est meilleur avec toi dedans.;Anonyme;0
+Garde la tête haute, tu peux surmonter n'importe quel obstacle.;Anonyme;0
+J'admire ton courage et ta persévérance.;Anonyme;0
+Chaque jour est une nouvelle opportunité, saisis-la !;Anonyme;0
+Ta gentillesse fait du bien à tout le monde autour de toi.;Anonyme;0
+Le succès t'attend à chaque coin de rue.;Anonyme;0
+Tu es unique en ton genre, et c'est une belle chose.;Anonyme;0
+N'oublie pas de prendre du temps pour toi-même aujourd'hui.;Anonyme;0
+Ta positivité est une source d'inspiration pour moi.;Anonyme;0
+Les rêves deviennent réalité, alors poursuis les tiens.;Anonyme;0
+Tu es aimé(e) plus que tu ne le sais.;Anonyme;0
+Ton sourire est contagieux, partage-le !;Anonyme;0
+N'oublie pas à quel point tu es spécial(e).;Anonyme;0
+Peu importe ce qui se passe, je crois en toi.;Anonyme;0
+La gratitude transforme l'ordinaire en extraordinaire, merci d'être reconnaissant(e).;Anonyme;0
+Ta présence apporte de la joie à tous ceux qui t'entourent.;Anonyme;0
+Le monde est un endroit plus lumineux grâce à toi.;Anonyme;0
+Ton amour et ta gentillesse font une différence énorme.;Anonyme;0
+Les défis ne font que te rendre plus fort(e).;Anonyme;0
+La vie te réserve encore de nombreuses belles surprises.;Anonyme;0
+N'oublie pas de prendre soin de ton corps et de ton esprit.;Anonyme;0
+Tu es capable de réaliser tout ce que tu veux dans la vie.;Anonyme;0
+Le bonheur se trouve dans les petites choses, apprécie-les.;Anonyme;0
+La vie est belle, surtout quand tu es là.;Anonyme;0
+Tu es une personne exceptionnelle, ne l'oublie jamais.;Anonyme;0
+N'oublie pas de t'accorder du temps pour te détendre.;Anonyme;0
+Tu es un véritable rayon de soleil dans ma vie.;Anonyme;0
+Continue d'aller de l'avant, tu es sur la bonne voie.;Anonyme;0
+Le monde a besoin de plus de personnes comme toi.;Anonyme;0
+Ton optimisme est une source d'inspiration pour moi.;Anonyme;0
+Tu mérites tout le bonheur du monde.;Anonyme;0
+Les possibilités sont infinies, saisis-les !;Anonyme;0
+N'oublie pas à quel point tu es résilient(e).;Anonyme;0
+Ton sourire rend chaque journée meilleure.;Anonyme;0
+Ta gentillesse n'a pas de limites, et c'est incroyable.;Anonyme;0
+La vie est une aventure, profite-en au maximum.;Anonyme;0
+Les erreurs font partie de la vie, apprends d'elles.;Anonyme;0
+Tu es en train de devenir la meilleure version de toi-même.;Anonyme;0
+La gratitude ouvre la porte au bonheur, continue d'être reconnaissant(e).;Anonyme;0
+N'oublie pas de t'entourer de personnes positives.;Anonyme;0
+Ton énergie est inspirante, continue de la partager.;Anonyme;0
+La vie est pleine de surprises merveilleuses qui t'attendent.;Anonyme;0
+Ton amour pour les autres est une belle chose.;Anonyme;0
+Continue d'avancer, tu es sur la bonne voie.;Anonyme;0
+Le monde est un endroit meilleur grâce à toi.;Anonyme;0
+Ta force intérieure est incroyable, utilise-la.;Anonyme;0
+N'oublie pas de prendre soin de ton bien-être mental.;Anonyme;0
+Tu as le pouvoir de créer ta propre réalité.;Anonyme;0
+Ton sourire fait briller le monde autour de toi.;Anonyme;0
+Tu es capable de surmonter tous les obstacles.;Anonyme;0
+La vie t'offre des opportunités chaque jour, saisis-les.;Anonyme;0
+Ta gentillesse laisse une empreinte durable sur le monde.;Anonyme;0
+La gratitude te rendra plus heureux(se), pratique-la souvent.;Anonyme;0
+N'oublie pas à quel point tu es aimé(e).;Anonyme;0
+La vie est une aventure passionnante, profites-en.;Anonyme;0
+Ton courage est une source d'inspiration pour moi.;Anonyme;0
+Tu es sur le point de réaliser de grandes choses.;Anonyme;0
+Tes actions positives ont un impact énorme.;Anonyme;0
+Continue de grandir et d'évoluer, tu es sur la bonne voie.;Anonyme;0
+La vie est remplie de beauté, ouvre les yeux pour la voir.;Anonyme;0
+Ton optimisme est une lumière dans l'obscurité.;Anonyme;0
+N'oublie pas de prendre soin de toi-même, tu le mérites.;Anonyme;0
+Ta persévérance te mènera loin dans la vie.;Anonyme;0
+La vie est une belle aventure, continue d'explorer.;Anonyme;0
+Ta gentillesse réchauffe le cœur des autres.;Anonyme;0
+La gratitude te connecte à la joie, pratique-la régulièrement.;Anonyme;0
+N'oublie pas à quel point tu es spécial(e) pour moi.;Anonyme;0
+La vie te réserve encore de nombreuses surprises.;Anonyme;0
+Ton amour pour la vie est inspirant, continue ainsi.;Anonyme;0
+Tu es sur le chemin du succès, ne t'arrête pas.;Anonyme;0
+Tes rêves deviendront réalité, j'en suis sûr(e).;Anonyme;0
+La vie est un cadeau précieux, profite de chaque instant.;Anonyme;0
+Ton sourire est contagieux, continue de le partager.;Anonyme;0
+N'oublie pas à quel point tu es capable de grandes choses.;Anonyme;0
+Ta présence apporte de la lumière dans la vie des autres.;Anonyme;0
+La gratitude te rendra plus heureux(se), pratique-la chaque jour.;Anonyme;0
+N'oublie pas combien tu es important(e) pour tant de gens.;Anonyme;0
+La vie est une aventure passionnante qui t'attend.;Anonyme;0
+Ta détermination te mènera loin dans la vie.;Anonyme;0
+Chaque jour est une opportunité de grandir et d'apprendre.;Anonyme;0
+La vie est remplie de merveilles, ouvre les yeux pour les voir.;Anonyme;0
+Ton optimisme est une source de joie pour moi.;Anonyme;0
+N'oublie pas de prendre du temps pour toi-même.;Anonyme;0
+Tu es un véritable modèle de persévérance.;Anonyme;0
+Ton potentiel est illimité, poursuis tes rêves.;Anonyme;0
+La vie est un voyage magnifique, continue d'explorer.;Anonyme;0
+Ta gentillesse touche le cœur des autres de manière profonde.;Anonyme;0
+La gratitude est la clé du bonheur, cultive-la chaque jour.;Anonyme;0
+N'oublie pas à quel point tu es précieux(se) pour moi.;Anonyme;0
+La vie te réserve encore de nombreuses aventures.;Anonyme;0
+Ton amour pour la vie est une source d'inspiration pour moi.;Anonyme;0
+Tes efforts portent leurs fruits, continue de travailler dur.;Anonyme;0
+Souviens-toi toujours : tu es aimé(e), tu es fort(e), tu es capable de grandes choses.;Anonyme;0
