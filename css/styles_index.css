@@ -84,6 +84,38 @@ select, input {
     font-family: 'Roboto', sans-serif;
 }
 
+@media screen and (min-width: 700px) {
+    form {
+        margin-left: 30%;
+        margin-right: 30%;
+    }
+
+    #cit_prop {
+        margin-left: 30%;
+    }
+
+    #citations {
+        margin-left: 30%;
+        margin-right: 30%;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    form {
+        margin-left: 35%;
+        margin-right: 35%;
+    }
+
+    #cit_prop {
+        margin-left: 35%;
+    }
+
+    #citations {
+        margin-left: 35%;
+        margin-right: 35%;
+    }
+}
+
 #send_cit {
     margin-bottom: 100px;
     display: flex;

@@ -1,10 +1,10 @@
 Salut ! J'espère que tu passes une merveilleuse journée !;Anonyme;0
-Ne l'oublie jamais : tu es incroyablement spécial.;Anonyme;0
+Ne l'oublie jamais : tu es incroyablement spécial.;Anonyme;1
 Ton sourire illumine la journée de tant de gens, continue à briller !;Anonyme;0
 La vie peut être difficile, mais tu es plus fort(e) que tu ne le penses.;Anonyme;0
 Tu es une source d'inspiration pour tant de gens, y compris moi.;Anonyme;0
 N'oublie pas de prendre soin de toi aujourd'hui.;Anonyme;1
-Ton optimisme est contagieux, merci d'être toi.;Anonyme;0
+Ton optimisme est contagieux, merci d'être toi.;Anonyme;1
 Le monde est meilleur avec toi dedans.;Anonyme;0
 Garde la tête haute, tu peux surmonter n'importe quel obstacle.;Anonyme;0
 J'admire ton courage et ta persévérance.;Anonyme;0
@@ -43,7 +43,7 @@ Ta gentillesse n'a pas de limites, et c'est incroyable.;Anonyme;0
 La vie est une aventure, profite-en au maximum.;Anonyme;0
 Les erreurs font partie de la vie, apprends d'elles.;Anonyme;0
 Tu es en train de devenir la meilleure version de toi-même.;Anonyme;0
-La gratitude ouvre la porte au bonheur, continue d'être reconnaissant(e).;Anonyme;0
+La gratitude ouvre la porte au bonheur, continue d'être reconnaissant(e).;Anonyme;1
 N'oublie pas de t'entourer de personnes positives.;Anonyme;0
 Ton énergie est inspirante, continue de la partager.;Anonyme;0
 La vie est pleine de surprises merveilleuses qui t'attendent.;Anonyme;0
@@ -133,7 +133,7 @@ Tu es une source d'inspiration.;Anonyme;0
 Rappelle-toi de toujours écouter ton cœur.;Anonyme;0
 Tu es plus fort que tu ne le penses.;Anonyme;0
 Ta passion est contagieuse.;Anonyme;0
-Tu es rempli de talents et de capacités.;Anonyme;0
+Tu es rempli de talents et de capacités.;Anonyme;1
 Le meilleur reste à venir.;Anonyme;0
 Tu es une lueur d'espoir pour beaucoup.;Anonyme;0
 Le monde est meilleur grâce à toi.;Anonyme;0
@@ -197,10 +197,10 @@ Tu es un exemple à suivre.;Anonyme;0
 Tu es la magie qui rend la vie belle.;Anonyme;0
 Le monde a besoin de plus de personnes comme toi.;Anonyme;0
 Tu es une source inépuisable d'inspiration.;Anonyme;0
-Merci d'être toi, tu es extraordinaire.;Anonyme;0
+Merci d'être toi, tu es extraordinaire.;Anonyme;1
 Tu es apprécié et aimé plus que tu ne le penses.;Anonyme;0
 Chaque défi que tu rencontres te rend plus fort.;Anonyme;0
-Ta présence rend le monde plus lumineux.;Anonyme;0
+Ta présence rend le monde plus lumineux.;Anonyme;1
 Crois en la puissance d'un nouveau jour.;Anonyme;0
 Tu mérites l'amour, la gentillesse et la joie.;Anonyme;1
 Souviens-toi d'être doux avec toi-même.;Anonyme;0
@@ -221,7 +221,7 @@ Fais confiance au voyage, même quand c'est difficile.;Anonyme;0
 Demain est une autre chance de faire bien.;Anonyme;0
 Tu es un phare d'espoir pour les autres.;Anonyme;0
 Je t'envoie un câlin virtuel et plein de vibrations positives.;Anonyme;0
-Ta valeur est inestimable.;Anonyme;0
+Ta valeur est inestimable.;Anonyme;1
 Prends une grande inspiration, tu gères.;Anonyme;0
 Le monde a besoin de tes dons et talents uniques.;Anonyme;0
 Tes rêves sont valables et méritent d'être poursuivis.;Anonyme;0
@@ -238,11 +238,11 @@ Les défis sont juste des détours dans ton magnifique voyage.;Anonyme;0
 Fais confiance au timing de ta vie.;Anonyme;0
 Tu mérites tout le bien qui vient vers toi.;Anonyme;0
 L'univers te soutient.;Anonyme;0
-Laisse ton cœur guérir à son propre rythme.;Anonyme;0
+Laisse ton cœur guérir à son propre rythme.;Anonyme;1
 Tu as une belle âme.;Anonyme;0
 Ta voix compte, et tes rêves aussi.;Anonyme;0
 C'est okay de te reposer et de te ressourcer.;Anonyme;0
-Souviens-toi de la force que tu as montrée par le passé.;Anonyme;0
+Souviens-toi de la force que tu as montrée par le passé.;Anonyme;1
 La croissance arrive souvent dans les moments les plus difficiles.;Anonyme;1
 Ta résilience est admirable.;Anonyme;0
 J'envoie chaleur et réconfort vers toi.;Anonyme;0
