@@ -3,13 +3,15 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET' && isset($_GET['index'])) {
     $index = $_GET['index'];
     $tempFile = '../txt/temp.txt';
     $ttFile = '../txt/citations.txt';
+    $citGensFile = '../txt/cit_gens.txt';
 
-    if (file_exists($tempFile) && file_exists($ttFile)) {
+    if (file_exists($tempFile) && file_exists($ttFile) && file_exists($citGensFile)) {
         $tempLines = file($tempFile, FILE_IGNORE_NEW_LINES);
         $ttLines = file($ttFile, FILE_IGNORE_NEW_LINES);
+        $citGensLines = file($citGensFile, FILE_IGNORE_NEW_LINES);
 
         if ($index >= 0 && $index < count($tempLines)) {
-            // Valider la ligne en la copiant de temp.txt vers tt.txt
+            // Valider la ligne en la copiant de temp.txt vers tt.txt et cit_gens.txt
             $lineToValidate = $tempLines[$index];
             
             // Ajouter une ligne vide après chaque ligne existante dans tt.txt
@@ -17,6 +19,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET' && isset($_GET['index'])) {
                 file_put_contents($ttFile, implode(PHP_EOL, $ttLines) . PHP_EOL . $lineToValidate . PHP_EOL, LOCK_EX);
             } else {
                 file_put_contents($ttFile, $lineToValidate . PHP_EOL, LOCK_EX);
+            }
+
+            // Ajouter une ligne vide après chaque ligne existante dans cit_gens.txt
+            if (!empty($citGensLines)) {
+                file_put_contents($citGensFile, implode(PHP_EOL, $citGensLines) . PHP_EOL . $lineToValidate . PHP_EOL, LOCK_EX);
+            } else {
+                file_put_contents($citGensFile, $lineToValidate . PHP_EOL, LOCK_EX);
             }
 
             // Supprimer la ligne de temp.txt
