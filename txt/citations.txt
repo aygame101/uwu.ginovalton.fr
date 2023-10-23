@@ -3,7 +3,7 @@ Ne l'oublie jamais : tu es incroyablement spécial.;Anonyme;0
 Ton sourire illumine la journée de tant de gens, continue à briller !;Anonyme;0
 La vie peut être difficile, mais tu es plus fort(e) que tu ne le penses.;Anonyme;0
 Tu es une source d'inspiration pour tant de gens, y compris moi.;Anonyme;0
-N'oublie pas de prendre soin de toi aujourd'hui.;Anonyme;0
+N'oublie pas de prendre soin de toi aujourd'hui.;Anonyme;1
 Ton optimisme est contagieux, merci d'être toi.;Anonyme;0
 Le monde est meilleur avec toi dedans.;Anonyme;0
 Garde la tête haute, tu peux surmonter n'importe quel obstacle.;Anonyme;0
@@ -82,12 +82,12 @@ N'oublie pas à quel point tu es capable de grandes choses.;Anonyme;0
 Ta présence apporte de la lumière dans la vie des autres.;Anonyme;0
 La gratitude te rendra plus heureux(se), pratique-la chaque jour.;Anonyme;0
 N'oublie pas combien tu es important(e) pour tant de gens.;Anonyme;0
-La vie est une aventure passionnante qui t'attend.;Anonyme;0
+La vie est une aventure passionnante qui t'attend.;Anonyme;1
 Ta détermination te mènera loin dans la vie.;Anonyme;0
 Chaque jour est une opportunité de grandir et d'apprendre.;Anonyme;0
 La vie est remplie de merveilles, ouvre les yeux pour les voir.;Anonyme;0
 Ton optimisme est une source de joie pour moi.;Anonyme;0
-N'oublie pas de prendre du temps pour toi-même.;Anonyme;0
+N'oublie pas de prendre du temps pour toi-même.;Anonyme;1
 Tu es un véritable modèle de persévérance.;Anonyme;0
 Ton potentiel est illimité, poursuis tes rêves.;Anonyme;0
 La vie est un voyage magnifique, continue d'explorer.;Anonyme;0
@@ -155,7 +155,7 @@ Continue d'être la lumière dans l'obscurité.;Anonyme;0
 Ton amour transforme le monde.;Anonyme;0
 Tu es la raison pour laquelle quelqu'un sourit aujourd'hui.;Anonyme;0
 La magie est en toi.;Anonyme;0
-Crois en la beauté de tes rêves.;Anonyme;0
+Crois en la beauté de tes rêves.;Anonyme;1
 Ta voix compte, n'aie pas peur de t'exprimer.;Anonyme;0
 Tu es rempli de possibilités infinies.;Anonyme;0
 Tu es un miracle.;Anonyme;0
@@ -165,7 +165,7 @@ Ta compassion change le monde.;Anonyme;0
 Tu as le pouvoir de rendre la vie belle.;Anonyme;0
 Tu es une force de la nature.;Anonyme;0
 Tu es précieux et d'une valeur inestimable.;Anonyme;0
-Chaque pas que tu fais te rapproche de tes objectifs.;Anonyme;0
+Chaque pas que tu fais te rapproche de tes objectifs.;Anonyme;1
 Tu es un exemple pour beaucoup.;Anonyme;0
 La vie est une aventure, et tu en es le héros.;Anonyme;0
 N'oublie jamais que tu es aimé.;Anonyme;0
@@ -202,7 +202,7 @@ Tu es apprécié et aimé plus que tu ne le penses.;Anonyme;0
 Chaque défi que tu rencontres te rend plus fort.;Anonyme;0
 Ta présence rend le monde plus lumineux.;Anonyme;0
 Crois en la puissance d'un nouveau jour.;Anonyme;0
-Tu mérites l'amour, la gentillesse et la joie.;Anonyme;0
+Tu mérites l'amour, la gentillesse et la joie.;Anonyme;1
 Souviens-toi d'être doux avec toi-même.;Anonyme;0
 Tu as une force intérieure qui peut surmonter n'importe quel obstacle.;Anonyme;0
 Ton voyage est unique et magnifique à sa manière.;Anonyme;0
@@ -227,7 +227,7 @@ Le monde a besoin de tes dons et talents uniques.;Anonyme;0
 Tes rêves sont valables et méritent d'être poursuivis.;Anonyme;0
 Tu comptes et tes sentiments sont valables.;Anonyme;0
 Chaque tempête dans la vie est suivie d'un arc-en-ciel.;Anonyme;0
-Souviens-toi de prioriser le bien-être et l'amour de soi.;Anonyme;0
+Souviens-toi de prioriser le bien-être et l'amour de soi.;Anonyme;1
 Les choses vont s'améliorer. Accroche-toi.;Anonyme;0
 Ton sourire a le pouvoir d'illuminer une pièce.;Anonyme;0
 C'est okay d'avancer pas à pas.;Anonyme;0
@@ -243,7 +243,7 @@ Tu as une belle âme.;Anonyme;0
 Ta voix compte, et tes rêves aussi.;Anonyme;0
 C'est okay de te reposer et de te ressourcer.;Anonyme;0
 Souviens-toi de la force que tu as montrée par le passé.;Anonyme;0
-La croissance arrive souvent dans les moments les plus difficiles.;Anonyme;0
+La croissance arrive souvent dans les moments les plus difficiles.;Anonyme;1
 Ta résilience est admirable.;Anonyme;0
 J'envoie chaleur et réconfort vers toi.;Anonyme;0
 Ton voyage mérite d'être célébré.;Anonyme;0
