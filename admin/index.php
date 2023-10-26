@@ -52,6 +52,8 @@ $_SESSION['last_activity'] = time();
                 echo '<li>' . htmlspecialchars($line) . '</li>';
                 echo '<button onclick="validateLine(' . $index . ')">Valider</button>';
                 echo '<button onclick="deleteLine(' . $index . ')">Supprimer</button>';
+                echo '<button onclick="saveLine(' . $index . ')">Sauvegarder</button>';
+
             }
             echo '</ul>';
         } else {
@@ -92,6 +94,23 @@ $_SESSION['last_activity'] = time();
                     console.error('Erreur lors de la suppression de la ligne :', error);
                 });
         }
+
+
+    function saveLine(index) {
+        // Appeler un script PHP pour sauvegarder la ligne
+        fetch('save_not_show.php?index=' + index)
+            .then(response => {
+                if (response.ok) {
+                    location.reload(); // Recharger la page après sauvegarde
+                } else {
+                    console.error('Erreur lors de la sauvegarde de la ligne.');
+                }
+            })
+            .catch(error => {
+                console.error('Erreur lors de la sauvegarde de la ligne :', error);
+            });
+    }
+
     </script>
 
     <form action="deconnexion.php" method="post">
