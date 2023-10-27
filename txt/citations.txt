@@ -1,12 +1,12 @@
 Salut ! J'espère que tu passes une merveilleuse journée !;Anonyme;0
 Ne l'oublie jamais : tu es incroyablement spécial.;Anonyme;1
-Ton sourire illumine la journée de tant de gens, continue à briller !;Anonyme;0
+Ton sourire illumine la journée de tant de gens, continue à briller !;Anonyme;1
 La vie peut être difficile, mais tu es plus fort(e) que tu ne le penses.;Anonyme;0
 Tu es une source d'inspiration pour tant de gens, y compris moi.;Anonyme;0
 N'oublie pas de prendre soin de toi aujourd'hui.;Anonyme;1
 Ton optimisme est contagieux, merci d'être toi.;Anonyme;1
 Le monde est meilleur avec toi dedans.;Anonyme;0
-Garde la tête haute, tu peux surmonter n'importe quel obstacle.;Anonyme;0
+Garde la tête haute, tu peux surmonter n'importe quel obstacle.;Anonyme;1
 J'admire ton courage et ta persévérance.;Anonyme;0
 Chaque jour est une nouvelle opportunité, saisis-la !;Anonyme;0
 Ta gentillesse fait du bien à tout le monde autour de toi.;Anonyme;0
@@ -27,7 +27,7 @@ Les défis ne font que te rendre plus fort(e).;Anonyme;0
 La vie te réserve encore de nombreuses belles surprises.;Anonyme;0
 N'oublie pas de prendre soin de ton corps et de ton esprit.;Anonyme;0
 Tu es capable de réaliser tout ce que tu veux dans la vie.;Anonyme;0
-Le bonheur se trouve dans les petites choses, apprécie-les.;Anonyme;0
+Le bonheur se trouve dans les petites choses, apprécie-les.;Anonyme;1
 La vie est belle, surtout quand tu es là.;Anonyme;0
 Tu es une personne exceptionnelle, ne l'oublie jamais.;Anonyme;0
 N'oublie pas de t'accorder du temps pour te détendre.;Anonyme;0
@@ -89,8 +89,8 @@ La vie est remplie de merveilles, ouvre les yeux pour les voir.;Anonyme;0
 Ton optimisme est une source de joie pour moi.;Anonyme;0
 N'oublie pas de prendre du temps pour toi-même.;Anonyme;1
 Tu es un véritable modèle de persévérance.;Anonyme;0
-Ton potentiel est illimité, poursuis tes rêves.;Anonyme;0
-La vie est un voyage magnifique, continue d'explorer.;Anonyme;0
+Ton potentiel est illimité, poursuis tes rêves.;Anonyme;1
+La vie est un voyage magnifique, continue d'explorer.;Anonyme;1
 Ta gentillesse touche le cœur des autres de manière profonde.;Anonyme;0
 La gratitude est la clé du bonheur, cultive-la chaque jour.;Anonyme;0
 N'oublie pas à quel point tu es précieux(se) pour moi.;Anonyme;0
@@ -127,7 +127,7 @@ Ne sous-estime jamais la puissance de ton courage.;Anonyme;0
 Ta générosité est un cadeau pour le monde.;Anonyme;0
 N'oublie pas de t'accorder du temps pour toi.;Anonyme;0
 Tu es un trésor pour ceux qui te connaissent.;Anonyme;0
-La vie est belle, tout comme toi.;Anonyme;0
+La vie est belle, tout comme toi.;Anonyme;1
 Continue de poursuivre tes rêves, tu es sur la bonne voie.;Anonyme;0
 Tu es une source d'inspiration.;Anonyme;0
 Rappelle-toi de toujours écouter ton cœur.;Anonyme;0
@@ -145,7 +145,7 @@ N'oublie jamais à quel point tu es spécial.;Anonyme;0
 Tu es une bénédiction pour ceux qui t'entourent.;Anonyme;0
 Le bonheur te suit où que tu ailles.;Anonyme;0
 Ta présence apporte de la paix.;Anonyme;0
-Rappelle-toi que tu es capable de tout.;Anonyme;0
+Rappelle-toi que tu es capable de tout.;Anonyme;1
 Tu es un joyau précieux.;Anonyme;0
 La vie t'aime, et moi aussi.;Anonyme;0
 Chaque défi te rapproche de tes rêves.;Anonyme;0
@@ -218,7 +218,7 @@ Ton histoire est inspirante.;Anonyme;0
 Embrasse les petits moments de joie.;Anonyme;0
 Tu as tellement de potentiel encore à découvrir.;Anonyme;0
 Fais confiance au voyage, même quand c'est difficile.;Anonyme;0
-Demain est une autre chance de faire bien.;Anonyme;0
+Demain est une autre chance de faire bien.;Anonyme;1
 Tu es un phare d'espoir pour les autres.;Anonyme;0
 Je t'envoie un câlin virtuel et plein de vibrations positives.;Anonyme;0
 Ta valeur est inestimable.;Anonyme;1
@@ -241,7 +241,7 @@ L'univers te soutient.;Anonyme;0
 Laisse ton cœur guérir à son propre rythme.;Anonyme;1
 Tu as une belle âme.;Anonyme;0
 Ta voix compte, et tes rêves aussi.;Anonyme;0
-C'est okay de te reposer et de te ressourcer.;Anonyme;0
+C'est okay de te reposer et de te ressourcer.;Anonyme;1
 Souviens-toi de la force que tu as montrée par le passé.;Anonyme;1
 La croissance arrive souvent dans les moments les plus difficiles.;Anonyme;1
 Ta résilience est admirable.;Anonyme;0
@@ -269,7 +269,7 @@ Il y a une lumière au bout de chaque tunnel.;Anonyme;0
 Tu es rempli d'un potentiel infini.;Anonyme;0
 L'univers croit en ta force.;Anonyme;0
 Laisse ton cœur te guider, il connaît le chemin.;Anonyme;0
-Tu es un pilier de force et de courage.;Anonyme;0
+Tu es un pilier de force et de courage.;Anonyme;1
 Ta gentillesse laisse une empreinte durable.;Anonyme;0
 Souviens-toi, c'est okay de prendre son temps.;Anonyme;0
 Tu es une âme rayonnante remplie d'amour.;Anonyme;0
@@ -296,5 +296,5 @@ Le monde a de la chance de t'avoir.;Anonyme;0
 Chaque défi est une nouvelle opportunité de croissance.;Anonyme;0
 Tu fais la différence, simplement en étant toi.;Anonyme;0
 Tu as une étincelle unique que personne d'autre n'a.;Anonyme;0
-Embrasse chaque partie de toi, tu es entier.;Anonyme;0
+Embrasse chaque partie de toi, tu es entier.;Anonyme;1
 Tu es un phare d'amour, d'espoir et de force.;Anonyme;0
