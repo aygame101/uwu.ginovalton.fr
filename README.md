@@ -3,6 +3,7 @@ Site web qui présente un message encourageant/bienveillant à chaque visite de 
 
 # To do
 - Améliorer le CSS pour ordinateur, mais le responsive est fait
+- Ajout recherche par mot clé
 
 
 
