@@ -2,7 +2,7 @@
 Site web qui présente un message encourageant/bienveillant à chaque visite de l'utilisateur, en réponse à une préoccupation croissante concernant la détérioration de la santé mentale chez les jeunes. Avec possibilité aux utilisateurs d'ajouter une nouvelle phrase. Accessible sur [uwu.ginovalton.fr].
 
 # To do
-Responsive sur ordinateur (là c'est pas beau)
+- Améliorer le CSS pour ordinateur, mais le responsive est fait
 
 
 
