@@ -8,7 +8,7 @@ Ton optimisme est contagieux, merci d'être toi.;Anonyme;1
 Le monde est meilleur avec toi dedans.;Anonyme;0
 Garde la tête haute, tu peux surmonter n'importe quel obstacle.;Anonyme;1
 J'admire ton courage et ta persévérance.;Anonyme;0
-Chaque jour est une nouvelle opportunité, saisis-la !;Anonyme;0
+Chaque jour est une nouvelle opportunité, saisis-la !;Anonyme;1
 Ta gentillesse fait du bien à tout le monde autour de toi.;Anonyme;0
 Le succès t'attend à chaque coin de rue.;Anonyme;1
 Tu es unique en ton genre, et c'est une belle chose.;Anonyme;0
@@ -30,7 +30,7 @@ Tu es capable de réaliser tout ce que tu veux dans la vie.;Anonyme;0
 Le bonheur se trouve dans les petites choses, apprécie-les.;Anonyme;1
 La vie est belle, surtout quand tu es là.;Anonyme;0
 Tu es une personne exceptionnelle, ne l'oublie jamais.;Anonyme;0
-N'oublie pas de t'accorder du temps pour te détendre.;Anonyme;0
+N'oublie pas de t'accorder du temps pour te détendre.;Anonyme;1
 Tu es un véritable rayon de soleil dans ma vie.;Anonyme;0
 Continue d'aller de l'avant, tu es sur la bonne voie.;Anonyme;0
 Le monde a besoin de plus de personnes comme toi.;Anonyme;0
@@ -138,7 +138,7 @@ Le meilleur reste à venir.;Anonyme;1
 Tu es une lueur d'espoir pour beaucoup.;Anonyme;0
 Le monde est meilleur grâce à toi.;Anonyme;0
 Tu es aimé, souviens-toi toujours de cela.;Anonyme;0
-Les petites choses que tu fais font une grande différence.;Anonyme;0
+Les petites choses que tu fais font une grande différence.;Anonyme;1
 Tu as une énergie magnifique.;Anonyme;0
 La beauté est partout, et tu en fais partie.;Anonyme;0
 N'oublie jamais à quel point tu es spécial.;Anonyme;0
@@ -288,7 +288,7 @@ Crois en toi, même quand c'est difficile.;Anonyme;0
 Chaque moment est une opportunité pour un nouveau départ.;Anonyme;0
 Tu es entouré d'une couverture invisible d'amour.;Anonyme;0
 Ton esprit brille plus que les étoiles.;Anonyme;0
-Fais confiance à ce que de meilleurs jours sont à venir.;Anonyme;0
+Fais confiance à ce que de meilleurs jours sont à venir.;Anonyme;1
 Tu es aimé au-delà des mots.;Anonyme;0
 Souviens-toi de toutes les montagnes que tu as déplacées par le passé.;Anonyme;0
 Ton voyage est rempli de sens.;Anonyme;0
