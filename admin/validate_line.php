@@ -1,4 +1,15 @@
 <?php
+
+session_start();
+
+// Vérifier si l'utilisateur est connecté
+if (!isset($_SESSION['connected'])) {
+    // Rediriger vers la page de connexion
+    header('Location: connexion.php');
+    exit();
+}
+
+
 if ($_SERVER['REQUEST_METHOD'] === 'GET' && isset($_GET['index'])) {
     $index = $_GET['index'];
     $tempFile = '../txt/temp.txt';
